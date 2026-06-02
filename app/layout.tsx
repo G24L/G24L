@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import '@/styles/globals.css';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
+import SupportBtn from '@/components/SupportBtn';
 
 export const metadata: Metadata = {
   title: 'G24L - Shaping Tomorrow\'s Technology Today',
@@ -33,6 +34,7 @@ export default function RootLayout({
         <Navigation />
         <main>{children}</main>
         <Footer />
+        <SupportBtn />
       </body>
     </html>
   );
