@@ -1,3 +1,11 @@
+export function generateStaticParams() {
+  return [
+    { slug: 'mars-basis-update' },
+    { slug: 'ai-automation-breakthrough' },
+    { slug: 'expansion-announcement' },
+  ];
+}
+
 export default function NewsDetailPage({ params }: { params: { slug: string } }) {
   const newsData: Record<string, any> = {
     'mars-basis-update': {

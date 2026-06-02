@@ -1,0 +1,8 @@
+com/bugland/support/chat/controller/SupportController.class
+com/bugland/support/web/ForwardController.class
+com/bugland/support/chat/dto/ChatRequest.class
+com/bugland/support/chat/service/SupportService.class
+com/bugland/support/chat/service/OllamaClient.class
+com/bugland/support/chat/dto/MessageDto.class
+com/bugland/support/chat/dto/ChatResponse.class
+com/bugland/support/BuglandSupportApplication.class

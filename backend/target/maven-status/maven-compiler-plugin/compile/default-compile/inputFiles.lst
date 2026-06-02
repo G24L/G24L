@@ -1,0 +1,8 @@
+/Users/jta/Documents/G24L/backend/src/main/java/com/bugland/support/BuglandSupportApplication.java
+/Users/jta/Documents/G24L/backend/src/main/java/com/bugland/support/chat/controller/SupportController.java
+/Users/jta/Documents/G24L/backend/src/main/java/com/bugland/support/chat/dto/ChatRequest.java
+/Users/jta/Documents/G24L/backend/src/main/java/com/bugland/support/chat/dto/ChatResponse.java
+/Users/jta/Documents/G24L/backend/src/main/java/com/bugland/support/chat/dto/MessageDto.java
+/Users/jta/Documents/G24L/backend/src/main/java/com/bugland/support/chat/service/OllamaClient.java
+/Users/jta/Documents/G24L/backend/src/main/java/com/bugland/support/chat/service/SupportService.java
+/Users/jta/Documents/G24L/backend/src/main/java/com/bugland/support/web/ForwardController.java
