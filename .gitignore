@@ -12,6 +12,13 @@ dist/
 .next/
 out/
 
+# Java backend build artifacts
+backend/target/
+backend/src/main/resources/static/
+
+# Local Node.js binary
+node/
+
 # Misc
 .DS_Store
 *.log
